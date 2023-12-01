@@ -28,3 +28,14 @@ TODO
 
 Project made with love by Mat(2.718)i.
 This project is made under the MIT Licensing rules. Use it freely, at your own will.
+
+NOTE
+-> Static badge
+-> AUR Last modified
+-> Github last activity (branch)
+-> Github Contributors
+-> Licensing
+-> Rating
+-> Version
+-> Platform and version support
+-> Sizing
