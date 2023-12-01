@@ -6,10 +6,19 @@ Template-me is a repository that contains a list of read-me templates for everyo
 
 ## How does is work?
 
+You just download the readme files you want and experience the beauty of template.me.
+
 ## Teck Stack
+
+TODO
+
+-  HTML
+-  CSS
+-  JS
+-  Framework?
+-  Firebase Hosting
 
 ## Autors
 
-## About
-
-A repository used to store good Readme templates with uses and resources.
+Project made with love by Mat(2.718)i.
+This project is made under the MIT Licensing rules. Use it freely, at your own will.
