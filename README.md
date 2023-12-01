@@ -18,6 +18,12 @@ TODO
 -  Framework?
 -  Firebase Hosting
 
+## Tools used
+
+-  Carbon
+-  Shields.io
+-  Banner Maker
+
 ## Autors
 
 Project made with love by Mat(2.718)i.
