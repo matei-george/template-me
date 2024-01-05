@@ -1,0 +1,58 @@
+/* Global reset and positioning */
+html,
+body {
+   height: 100%;
+}
+
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   user-select: none;
+}
+
+.container {
+   background-color: #312f2f;
+   height: 100%;
+   display: grid;
+   grid-template-columns: 1fr;
+   grid-template-rows: repeat(2, 1fr);
+   justify-items: center;
+   align-items: center;
+   row-gap: 16px;
+}
+
+.title {
+   color: #6e9887;
+   font-size: 92px;
+   align-self: start;
+   position: relative;
+   padding-bottom: 8px;
+}
+.subtitle {
+   position: relative;
+   color: #99cfba;
+   font-size: 48px;
+   align-self: end;
+   padding-bottom: 8px;
+}
+
+.title::after,
+.subtitle::after {
+   content: "";
+   width: 0%;
+   border-bottom: 4px solid #8e8989;
+   position: absolute;
+   right: 0;
+   bottom: 0;
+   transition: ease-in 450ms;
+}
+
+.title:hover::after,
+.subtitle:hover::after {
+   position: absolute;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   transition: ease-out 300ms;
+}
