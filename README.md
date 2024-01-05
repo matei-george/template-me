@@ -17,6 +17,7 @@ TODO
 -  JS
 -  Framework?
 -  Firebase Hosting
+   https://github.com/matei-george
 
 ## Tools used
 
